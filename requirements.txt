@@ -1,0 +1,5 @@
+bitarray   
+huffman   
+matplotlib   
+numpy  
+opencv-python
